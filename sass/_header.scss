@@ -1,0 +1,5 @@
+.header {
+    background-color: $color-grey-dark-1;
+    //6 represents the 6st column of the 8 repeated
+    grid-column: full-start / col-end 6;
+}
